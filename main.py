@@ -2,7 +2,6 @@ import networkx as nx
 import matplotlib.pyplot as plt
 import matplotlib.font_manager as fm
 from os import path
-from time import sleep
 
 # หาตำแหน่งของผู้ใช้งาน
 find_current_path = path.dirname(path.abspath(__file__))
